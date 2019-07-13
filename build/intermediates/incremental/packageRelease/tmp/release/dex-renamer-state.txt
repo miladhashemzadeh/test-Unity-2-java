@@ -1,0 +1,4 @@
+#Tue Jun 11 05:46:23 PDT 2019
+base.0=D\:\\testSwimmer\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

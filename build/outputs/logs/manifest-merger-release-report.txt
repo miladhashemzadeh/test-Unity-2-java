@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml:2:1-63:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2f4bb4a6dc83062072408bdb889c1898\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7eabf8009f5fa924fc71b0ed7abc60a2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b5f762faf3f75c4d5e4f2459ee9a8223\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ced32f059dee373c1a7ba4e306873e46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bc55a8ed3880473dcd7dcb0d855e9e81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ab898b77832b29dad3e8cd53180b928d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5a2a455931ceb9a8297c8be95cd9c57a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8068aa10244fde1dda80daf32e640075\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c8975b73d8f2c30db41ad465a263ca6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\30ab684614c70a20631db2aa6f8a1b78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6c540317e40cbf501699079ea0a64123\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\20955de7f21a88b69d45a4c5173e3678\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5037d107f5593be2fcb8cea61f97b30d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2c76c5eab06821254a5e5e08a8d18140\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\773613bc344999e30ba62579d17546d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bb7c17216c6708d101bb5e0667da5f15\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\34ee370c6de95797e5202a015ab94ec4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f64ed1a81b00e73d33a2065d2388ec8e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\144ff4986a40cc380d9d855f15a48a29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ee2d43ff25830c4c998df3a2d8832ad8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a1957569f57e0971babbdff45add67db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\00aca0cdf426f551a3757cad44dfe449\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4ad1c673c5f2a92eace237f29d49a1c4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\73b8b00f8510b69b64267154600269fb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\dbdb6963e5f9012a8212eae15c66d4b7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\20be8e3ff862a7f021ad6ad2087564e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b255fd38487deb5abcb4f8b341ff140e\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:4:5-39
+	android:versionName
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+		INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+		INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:5:5-35
+supports-screens
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:9:5-14:40
+	android:largeScreens
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:12:9-37
+	android:xlargeScreens
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:10:9-34
+uses-feature#0x00020000
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:16:5-54
+	android:glEsVersion
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:16:19-51
+supports-gl-texture#GL_OES_compressed_ETC1_RGB8_texture
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:18:26-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:21:5-23:38
+	android:maxSdkVersion
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:23:9-35
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:22:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:24:5-26:38
+	android:maxSdkVersion
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:26:9-35
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:25:9-64
+uses-feature#android.hardware.touchscreen
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:29:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:32:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:35:9-72
+application
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:38:5-61:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7eabf8009f5fa924fc71b0ed7abc60a2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7eabf8009f5fa924fc71b0ed7abc60a2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bb7c17216c6708d101bb5e0667da5f15\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bb7c17216c6708d101bb5e0667da5f15\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\34ee370c6de95797e5202a015ab94ec4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\34ee370c6de95797e5202a015ab94ec4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bb7c17216c6708d101bb5e0667da5f15\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:42:9-41
+	android:icon
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:40:9-42
+	android:banner
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:39:9-46
+	android:theme
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:43:9-50
+	android:isGame
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:41:9-31
+activity#com.better.world.swimmer.MainActivity
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:44:9-59
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:44:19-47
+activity#com.better.world.swimmer.UnityPlayerActivity
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:45:9-60:20
+	android:screenOrientation
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:48:13-45
+	android:launchMode
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:49:13-44
+	android:configChanges
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:47:13-186
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:46:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:54:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:57:13-59:40
+	android:value
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:59:17-37
+	android:name
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml:58:17-57
+uses-sdk
+INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2f4bb4a6dc83062072408bdb889c1898\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2f4bb4a6dc83062072408bdb889c1898\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7eabf8009f5fa924fc71b0ed7abc60a2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7eabf8009f5fa924fc71b0ed7abc60a2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b5f762faf3f75c4d5e4f2459ee9a8223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b5f762faf3f75c4d5e4f2459ee9a8223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ced32f059dee373c1a7ba4e306873e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ced32f059dee373c1a7ba4e306873e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bc55a8ed3880473dcd7dcb0d855e9e81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bc55a8ed3880473dcd7dcb0d855e9e81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ab898b77832b29dad3e8cd53180b928d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ab898b77832b29dad3e8cd53180b928d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5a2a455931ceb9a8297c8be95cd9c57a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5a2a455931ceb9a8297c8be95cd9c57a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8068aa10244fde1dda80daf32e640075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8068aa10244fde1dda80daf32e640075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c8975b73d8f2c30db41ad465a263ca6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c8975b73d8f2c30db41ad465a263ca6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\30ab684614c70a20631db2aa6f8a1b78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\30ab684614c70a20631db2aa6f8a1b78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6c540317e40cbf501699079ea0a64123\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6c540317e40cbf501699079ea0a64123\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\20955de7f21a88b69d45a4c5173e3678\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\20955de7f21a88b69d45a4c5173e3678\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5037d107f5593be2fcb8cea61f97b30d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5037d107f5593be2fcb8cea61f97b30d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2c76c5eab06821254a5e5e08a8d18140\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2c76c5eab06821254a5e5e08a8d18140\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\773613bc344999e30ba62579d17546d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\773613bc344999e30ba62579d17546d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bb7c17216c6708d101bb5e0667da5f15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bb7c17216c6708d101bb5e0667da5f15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\34ee370c6de95797e5202a015ab94ec4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\34ee370c6de95797e5202a015ab94ec4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f64ed1a81b00e73d33a2065d2388ec8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f64ed1a81b00e73d33a2065d2388ec8e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\144ff4986a40cc380d9d855f15a48a29\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\144ff4986a40cc380d9d855f15a48a29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ee2d43ff25830c4c998df3a2d8832ad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ee2d43ff25830c4c998df3a2d8832ad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a1957569f57e0971babbdff45add67db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a1957569f57e0971babbdff45add67db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\00aca0cdf426f551a3757cad44dfe449\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\00aca0cdf426f551a3757cad44dfe449\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4ad1c673c5f2a92eace237f29d49a1c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4ad1c673c5f2a92eace237f29d49a1c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\73b8b00f8510b69b64267154600269fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\73b8b00f8510b69b64267154600269fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\dbdb6963e5f9012a8212eae15c66d4b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\dbdb6963e5f9012a8212eae15c66d4b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\20be8e3ff862a7f021ad6ad2087564e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\20be8e3ff862a7f021ad6ad2087564e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b255fd38487deb5abcb4f8b341ff140e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\milad\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b255fd38487deb5abcb4f8b341ff140e\AndroidManifest.xml:20:5-44
+INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml
+		INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
+		ADDED from D:\testSwimmer\src\main\AndroidManifest.xml
+		INJECTED from D:\testSwimmer\src\main\AndroidManifest.xml
