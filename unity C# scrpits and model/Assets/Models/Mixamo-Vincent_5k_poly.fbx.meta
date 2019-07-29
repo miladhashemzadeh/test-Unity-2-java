@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 45e8e01a1d13dd144a7dd8898d720f07
+timeCreated: 1556385042
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MixamoVincent5k_TurboSquid_001_2010
+    100004: Vincent:Head
+    100006: Vincent:HeadTop_End
+    100008: Vincent:Hips
+    100010: Vincent:LeftArm
+    100012: Vincent:LeftFoot
+    100014: Vincent:LeftFootToeBase_End
+    100016: Vincent:LeftForeArm
+    100018: Vincent:LeftHand
+    100020: Vincent:LeftHandIndex1
+    100022: Vincent:LeftHandIndex2
+    100024: Vincent:LeftHandIndex3_End
+    100026: Vincent:LeftHandThumb1
+    100028: Vincent:LeftHandThumb2_End
+    100030: Vincent:LeftInHandThumb
+    100032: Vincent:LeftLeg
+    100034: Vincent:LeftShoulder
+    100036: Vincent:LeftToeBase
+    100038: Vincent:LeftUpLeg
+    100040: Vincent:Neck
+    100042: Vincent:Neck1
+    100044: Vincent:RightArm
+    100046: Vincent:RightFoot
+    100048: Vincent:RightFootToeBase_End
+    100050: Vincent:RightForeArm
+    100052: Vincent:RightHand
+    100054: Vincent:RightHandIndex1
+    100056: Vincent:RightHandIndex2
+    100058: Vincent:RightHandIndex3_End
+    100060: Vincent:RightHandThumb1
+    100062: Vincent:RightHandThumb2_End
+    100064: Vincent:RightInHandThumb
+    100066: Vincent:RightLeg
+    100068: Vincent:RightShoulder
+    100070: Vincent:RightToeBase
+    100072: Vincent:RightUpLeg
+    100074: Vincent:Spine
+    100076: Vincent:Spine1
+    100078: Vincent:Spine2
+    100080: vincent_Casual_Male_Lod_0
+    400000: //RootNode
+    400002: MixamoVincent5k_TurboSquid_001_2010
+    400004: Vincent:Head
+    400006: Vincent:HeadTop_End
+    400008: Vincent:Hips
+    400010: Vincent:LeftArm
+    400012: Vincent:LeftFoot
+    400014: Vincent:LeftFootToeBase_End
+    400016: Vincent:LeftForeArm
+    400018: Vincent:LeftHand
+    400020: Vincent:LeftHandIndex1
+    400022: Vincent:LeftHandIndex2
+    400024: Vincent:LeftHandIndex3_End
+    400026: Vincent:LeftHandThumb1
+    400028: Vincent:LeftHandThumb2_End
+    400030: Vincent:LeftInHandThumb
+    400032: Vincent:LeftLeg
+    400034: Vincent:LeftShoulder
+    400036: Vincent:LeftToeBase
+    400038: Vincent:LeftUpLeg
+    400040: Vincent:Neck
+    400042: Vincent:Neck1
+    400044: Vincent:RightArm
+    400046: Vincent:RightFoot
+    400048: Vincent:RightFootToeBase_End
+    400050: Vincent:RightForeArm
+    400052: Vincent:RightHand
+    400054: Vincent:RightHandIndex1
+    400056: Vincent:RightHandIndex2
+    400058: Vincent:RightHandIndex3_End
+    400060: Vincent:RightHandThumb1
+    400062: Vincent:RightHandThumb2_End
+    400064: Vincent:RightInHandThumb
+    400066: Vincent:RightLeg
+    400068: Vincent:RightShoulder
+    400070: Vincent:RightToeBase
+    400072: Vincent:RightUpLeg
+    400074: Vincent:Spine
+    400076: Vincent:Spine1
+    400078: Vincent:Spine2
+    400080: vincent_Casual_Male_Lod_0
+    4300000: vincent_Casual_Male_Lod_0
+    9500000: //RootNode
+    13700000: vincent_Casual_Male_Lod_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
