@@ -10,7 +10,7 @@ for programming on a unity5.6.0 c# app in android3 java gardle system first shou
 5.uncheck Auto Graphics API >> set it as you wish</br>
 6. in Build Settings>>Platform>>Android check Export Project and Build unity side done</br>
 android studio side</br>
-7.import project as module</br
+7.import project as module</br>
  7.1.File>>New>>Import Module</br>
  7.2.Select the source directory of the Module you want to import and click Finish.</br>
  7.3.Open Project Structure and open Module Settings for your project.</br>
